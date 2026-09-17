@@ -1,0 +1,24 @@
+# core ml (cpu build for local dev; kaggle provides gpu build at training time)
+torch
+torchvision
+
+# data / numerics
+numpy
+scipy
+scikit-learn
+pillow
+h5py
+
+# image hashing (overlap audit)
+ImageHash
+
+# plotting
+matplotlib
+seaborn
+
+# explainability / efficiency
+opencv-python
+fvcore
+
+# utilities
+tqdm

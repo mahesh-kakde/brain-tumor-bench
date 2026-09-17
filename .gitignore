@@ -1,0 +1,22 @@
+# env
+.env
+.venv
+
+# py
+__pycache__/
+*.py[cod]
+
+# data & models
+data/kaggle/
+data/figshare/
+*.pt
+*.pth
+
+# results & paper
+paper/
+results/paper_figures/
+results/kaggle_runs/**/*.pt
+
+# jupyter
+.ipynb_checkpoints
+results/xai/*/overlays/
