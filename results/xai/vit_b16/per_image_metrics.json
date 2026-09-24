@@ -1,0 +1,402 @@
+[
+  {
+    "image": "Te-gl_1.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 1,
+    "correct": 0,
+    "del_auc": 0.6327,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_10.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.1087,
+    "stab": 0.9996,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_100.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.1174,
+    "stab": 0.9999,
+    "elapsed_s": 2.9
+  },
+  {
+    "image": "Te-gl_101.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.0815,
+    "stab": 0.9996,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_102.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.0372,
+    "stab": 0.9996,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_103.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.0633,
+    "stab": 0.9991,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_104.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.0887,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_105.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.0744,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_106.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 1,
+    "correct": 0,
+    "del_auc": 0.3491,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-gl_107.jpg",
+    "class": "glioma",
+    "class_idx": 0,
+    "pred": 0,
+    "correct": 1,
+    "del_auc": 0.135,
+    "stab": 0.9997,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_1.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.3281,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_10.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.4264,
+    "stab": 0.9997,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_100.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5448,
+    "stab": 0.9997,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_101.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5001,
+    "stab": 0.9997,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_102.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.4756,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_103.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5882,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_11.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5337,
+    "stab": 0.9997,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_12.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.3658,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_13.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5587,
+    "stab": 0.9996,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-aug-me_14.jpg",
+    "class": "meningioma",
+    "class_idx": 1,
+    "pred": 1,
+    "correct": 1,
+    "del_auc": 0.5276,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_1.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.8757,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_10.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.5519,
+    "stab": 1.0,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_100.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.8265,
+    "stab": 0.9999,
+    "elapsed_s": 2.7
+  },
+  {
+    "image": "Te-no_101.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.6148,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_102.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.8748,
+    "stab": 1.0,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_103.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.6858,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_104.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.7585,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_105.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.4166,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_106.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.9188,
+    "stab": 1.0,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-no_107.jpg",
+    "class": "notumor",
+    "class_idx": 2,
+    "pred": 2,
+    "correct": 1,
+    "del_auc": 0.6024,
+    "stab": 1.0,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_1.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.173,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_10.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1946,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_100.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1146,
+    "stab": 0.9996,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_101.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.2206,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_102.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.6592,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_103.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.0892,
+    "stab": 0.9998,
+    "elapsed_s": 2.9
+  },
+  {
+    "image": "Te-pi_104.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1176,
+    "stab": 0.9998,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_105.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1284,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_106.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1299,
+    "stab": 0.9995,
+    "elapsed_s": 2.8
+  },
+  {
+    "image": "Te-pi_107.jpg",
+    "class": "pituitary",
+    "class_idx": 3,
+    "pred": 3,
+    "correct": 1,
+    "del_auc": 0.1615,
+    "stab": 0.9999,
+    "elapsed_s": 2.8
+  }
+]
