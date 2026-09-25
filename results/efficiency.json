@@ -1,0 +1,74 @@
+{
+  "platform": {
+    "python": "3.14.6",
+    "pytorch": "2.14.0+cpu",
+    "device": "cpu (no gpu available locally)",
+    "os": "Windows"
+  },
+  "params": {
+    "resnet50": {
+      "total_params": 23516228,
+      "trainable_params": 23516228,
+      "total_M": 23.52,
+      "trainable_M": 23.52
+    },
+    "efficientnet_b0": {
+      "total_params": 4012672,
+      "trainable_params": 4012672,
+      "total_M": 4.01,
+      "trainable_M": 4.01
+    },
+    "vit_b16": {
+      "total_params": 85801732,
+      "trainable_params": 85801732,
+      "total_M": 85.8,
+      "trainable_M": 85.8
+    },
+    "hybrid": {
+      "total_params": 37194308,
+      "trainable_params": 37194308,
+      "total_M": 37.19,
+      "trainable_M": 37.19
+    }
+  },
+  "flops": {
+    "resnet50": {
+      "gflops": 4.109
+    },
+    "efficientnet_b0": {
+      "gflops": 0.4
+    },
+    "vit_b16": {
+      "gflops": 16.867
+    },
+    "hybrid": {
+      "gflops": 4.791
+    }
+  },
+  "inference": {
+    "resnet50": {
+      "mean_ms": 44.81,
+      "std_ms": 6.12,
+      "n_images": 100,
+      "device": "cpu"
+    },
+    "efficientnet_b0": {
+      "mean_ms": 17.9,
+      "std_ms": 2.39,
+      "n_images": 100,
+      "device": "cpu"
+    },
+    "vit_b16": {
+      "mean_ms": 132.84,
+      "std_ms": 4.36,
+      "n_images": 100,
+      "device": "cpu"
+    },
+    "hybrid": {
+      "mean_ms": 58.14,
+      "std_ms": 3.6,
+      "n_images": 100,
+      "device": "cpu"
+    }
+  }
+}
