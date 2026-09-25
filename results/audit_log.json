@@ -1,0 +1,260 @@
+{
+  "kaggle_train_images": 5600,
+  "figshare_images": 3064,
+  "phash_threshold": 10,
+  "exact_sha256_matches": 0,
+  "near_duplicate_pairs": 1762,
+  "exact_matches_detail": [],
+  "near_duplicates_detail": [
+    {
+      "kaggle": "glioma/Tr-gl_1013.jpg",
+      "figshare": "glioma/1848.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1041.jpg",
+      "figshare": "glioma/2089.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1041.jpg",
+      "figshare": "glioma/2091.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1041.jpg",
+      "figshare": "glioma/2092.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1043.jpg",
+      "figshare": "glioma/1841.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "glioma/2137.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "glioma/2164.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "glioma/2165.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "glioma/2926.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/506.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/510.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/52.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/53.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/565.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/566.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/567.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1046.jpg",
+      "figshare": "meningioma/579.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1051.jpg",
+      "figshare": "glioma/915.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1051.jpg",
+      "figshare": "glioma/916.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1051.jpg",
+      "figshare": "glioma/917.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1071.jpg",
+      "figshare": "glioma/1946.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1088.jpg",
+      "figshare": "pituitary/1035.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1088.jpg",
+      "figshare": "pituitary/1036.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/1870.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2087.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2088.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2109.png",
+      "phash_distance": 8
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2110.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2399.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1089.jpg",
+      "figshare": "glioma/2731.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1104.jpg",
+      "figshare": "pituitary/1387.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1110.jpg",
+      "figshare": "glioma/1916.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1110.jpg",
+      "figshare": "glioma/1919.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1110.jpg",
+      "figshare": "meningioma/23.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1110.jpg",
+      "figshare": "meningioma/252.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1126.jpg",
+      "figshare": "meningioma/461.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1126.jpg",
+      "figshare": "meningioma/463.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "glioma/2812.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "meningioma/596.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/1038.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/1663.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/1806.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/929.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/931.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/932.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/948.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1128.jpg",
+      "figshare": "pituitary/949.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1129.jpg",
+      "figshare": "glioma/1887.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1129.jpg",
+      "figshare": "glioma/2039.png",
+      "phash_distance": 10
+    },
+    {
+      "kaggle": "glioma/Tr-gl_1129.jpg",
+      "figshare": "glioma/2040.png",
+      "phash_distance": 10
+    }
+  ]
+}
