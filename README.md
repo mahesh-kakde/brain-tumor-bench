@@ -75,8 +75,6 @@ all training runs are executed on **kaggle notebooks** (gpu). local machine is u
 
 ```
 brain-tumor-bench/
-├── BLUEPRINT.pdf      # original research blueprint
-├── PROJECT.html       # project reference (tools, data, models)
 ├── README.md          # this file
 ├── RESULTS.md         # all results and insights
 ├── requirements.txt   # python dependencies
