@@ -1,9 +1,7 @@
 # brain-tumor-bench
-
 a reproducible benchmark comparing four deep learning architectures for brain tumor mri classification under identical training conditions.
 
 ## what is this?
-
 this project performs a fair, head-to-head comparison of:
 - **resnet-50** — classic cnn baseline (23.52M params, 4.11 GFLOPs)
 - **efficientnet-b0** — lightweight cnn (4.01M params, 0.40 GFLOPs)
@@ -13,7 +11,6 @@ this project performs a fair, head-to-head comparison of:
 all four models are trained under the **exact same protocol** (same optimizer, lr, scheduler, augmentation, early stopping) so performance differences are attributable to architectural inductive biases, not tuning advantages.
 
 ## task
-
 four-class classification of brain mri slices:
 
 | class | description |
@@ -24,16 +21,14 @@ four-class classification of brain mri slices:
 | pituitary | tumor in the pituitary gland |
 
 ## datasets
-
 | dataset | images | classes | role |
 |---|---|---|---|
 | kaggle brain tumor mri | 7,200 (5,600 train + 1,600 test) | 4 | primary benchmark |
 | figshare brain tumor | 3,064 | 3 | sensitivity check only |
 
-> ⚠️ figshare results are sensitivity checks only — ~1,762 perceptual near-duplicate pairs exist with the kaggle training set.
+> figshare results are sensitivity checks only — ~1,762 perceptual near-duplicate pairs exist with the kaggle training set.
 
 ## results (kaggle held-out test set, mean ± std across 3 seeds)
-
 | model | accuracy | macro f1 | auroc | ece | params | flops | cpu inference |
 |---|---|---|---|---|---|---|---|
 | resnet-50 | 0.9531 ± 0.0027 | 0.9522 ± 0.0026 | 0.9856 ± 0.0024 | 0.031 | 23.52M | 4.11G | 44.8ms |
@@ -46,7 +41,6 @@ four-class classification of brain mri slices:
 see [RESULTS.md](RESULTS.md) for full tables including per-run metrics, figshare sensitivity check, explainability analysis, and statistical significance tests.
 
 ## key design principles
-
 - identical training protocol across all architectures
 - three random seeds (42, 1337, 2026) for mean ± std reporting
 - evaluation beyond accuracy: calibration (ece), explainability (del-auc, stab), efficiency (params, flops, inference time)
@@ -54,11 +48,9 @@ see [RESULTS.md](RESULTS.md) for full tables including per-run metrics, figshare
 - full provenance audit between datasets
 
 ## training
-
 all training runs are executed on **kaggle notebooks** (gpu). local machine is used for code writing, data prep, and analysis only.
 
 ### hyperparameters
-
 | param | value |
 |---|---|
 | optimizer | adamw |
@@ -72,7 +64,6 @@ all training runs are executed on **kaggle notebooks** (gpu). local machine is u
 | input size | 224×224 |
 
 ## repo structure
-
 ```
 brain-tumor-bench/
 ├── README.md          # this file
@@ -107,15 +98,8 @@ brain-tumor-bench/
     └── plot_training_curves.py
 ```
 
-## docs
-
-- [PROJECT.html](PROJECT.html) — project tools, datasets, and architecture details
-
 ## license
-
-this project is for academic research purposes.
+mit
 
 ## author
-
-
 [mahesh kakde](https://github.com/mahesh-kakde)
